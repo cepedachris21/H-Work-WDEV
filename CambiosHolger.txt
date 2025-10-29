@@ -1,0 +1,15 @@
+1)
+en la parte final de las paginas (se llama footer) hay una zona donde dice Developed by: Visum, igual en espaniol,
+hay que cambiar todas para que apunten a Grupo Galapagos, puedes usar de ejemplo la web de 
+/ferryticketsUK/terms-and-conditions.html
+
+2) 
+ponerle en todas las paginas en la parte final el Copiright en 2026, en los titulos tambien suele haber, revisar los h1.
+
+3) 
+En las paginas que vayamos completando poner el pais al que corresponde en el h1 del index,
+Ejemplo con la de UK
+
+<h1>Transportation between islands, Galapagos Ferry United Kingdom 2025</h1>
+
+uk hace refencia a reino unido, es a Espania y asi con todas
