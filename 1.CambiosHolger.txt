@@ -18,4 +18,4 @@ Ejemplo con la de UK
 uk hace refencia a reino unido, es a Espania y asi con todas
 
 
-Esta web va a ser .US el mismo proceso 
+Esta web va a ser .US y .CA el mismo proceso 
