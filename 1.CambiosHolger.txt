@@ -13,9 +13,9 @@ Verficar el Lang al inicio de las paginas que este correcto segunla region:
 Cambiar las imagenes para que ya no apunten a un archivo sino a un URl de la pagina principal.
 Ejemplo:
 
-<img src="/imagenes/logo-ferry-tickets-3.png" alt="logo ferry tickets galapagos" width="295" height="168" />
-
 <img src="https://www.ferryticketsgalapagos.com/imagenes/logo-ferry-tickets-3.png" alt="logo ferry tickets galapagos" width="295" height="168" />
+
+<img src="https://www.ferryticketsgalapagos.comhttps://www.ferryticketsgalapagos.com/imagenes/logo-ferry-tickets-3.png" alt="logo ferry tickets galapagos" width="295" height="168" />
 
 3)
 revisar que se visualice el favicon de todas las paginas.
