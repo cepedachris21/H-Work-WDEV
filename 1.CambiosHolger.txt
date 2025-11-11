@@ -1,8 +1,27 @@
 1)
+Cambiar las rutas en base a la region (.ca, .us) Incluido el cannonical:
+
+<link rel="canonical" href="https://www.ferryticketsgalapagos.ca/buy-ferry-tickets" />
+
+2)
+Verficar el Lang al inicio de las paginas que este correcto segunla region:
+
+<!DOCTYPE html>
+<html lang="en-CA"> //Este es ingles para Canadá
+
+3)
+Cambiar las imagenes para que ya no apunten a un archivo sino a un URl de la pagina principal.
+Ejemplo:
+
+<img src="/imagenes/logo-ferry-tickets-3.png" alt="logo ferry tickets galapagos" width="295" height="168" />
+
+<img src="https://www.ferryticketsgalapagos.com/imagenes/logo-ferry-tickets-3.png" alt="logo ferry tickets galapagos" width="295" height="168" />
+
+3)
 revisar que se visualice el favicon de todas las paginas.
 
 2)
-en la parte final de las paginas (se llama footer) hay una zona donde dice Developed by: Visum, igual en espaniol,
+en la parte final de las paginas (footer) hay una zona donde dice Developed by: Visum, igual en espaniol,
 hay que cambiar todas para que apunten a Grupo Galapagos, puedes usar de ejemplo la web de 
 /ferryticketsUK/terms-and-conditions.html
 
